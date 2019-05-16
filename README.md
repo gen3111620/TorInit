@@ -1,9 +1,9 @@
 # TorInit
+DarkWeb Browse, crawl
+
 Open Tor socks port and you can addon for chrome do something
 
-The Structure of folders are listed:
-
-## Installation
+you can use the repo to browse onion site simply 
 
 ## my environment
 ```
